@@ -1,5 +1,9 @@
 # TON Assets
 
+> This repository is a fork of [tonkeeper/ton-assets](https://github.com/tonkeeper/ton-assets).
+> It retains the upstream asset registry and contribution documentation. See
+> [fork context](FORK_NOTES.md) for how it fits this account's project collection.
+
 This is a list of popular addresses and assets. We are open to pull request but **please read manual in the end of this readme for PR**.
 
 ## Addresses
